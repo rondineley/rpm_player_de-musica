@@ -14,6 +14,7 @@ Quero compartilhar esse processo e receber sugestões sobre interface, acessibil
 Código-fonte e detalhes: 
 
 Qual recurso você considera essencial em um player de música para PC?
+![Uploading image.png…]()
 
 #DesenvolvimentoDeSoftware #JavaScript #Electron #UXUI #Portfolio
 
